@@ -69,7 +69,7 @@ prettytable
 prompt_toolkit            
 protobuf                  
 psutil                    
-psycopg2                  
+psycopg2-binary                  
 pure-eval                 
 pyarrow                 
 PyAutoGUI                
