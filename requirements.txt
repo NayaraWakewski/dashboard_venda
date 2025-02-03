@@ -19,10 +19,8 @@ decorator
 efficient_apriori         
 exceptiongroup           
 executing                
-fastjsonschema            
-folium                    
-fonttools                 
-geographiclib             
+fastjsonschema                                
+fonttools                              
 geopy                     
 gitdb                     
 GitPython                 
@@ -69,7 +67,6 @@ prettytable
 prompt_toolkit            
 protobuf                  
 psutil                    
-psycopg2-binary                  
 pure-eval                 
 pyarrow                 
 PyAutoGUI                
@@ -84,7 +81,6 @@ PyScreeze
 python-dateutil          
 pytweening                
 pytz                     
-pywin32                   
 pyzmq                     
 referencing             
 requests                  
